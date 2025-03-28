@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Gourove Roy!</h1>
-<h3 align="center">Beginner Web Developer | Competitive Programmer</h3>
+<h3 align="center">Junior Web Developer | Competitive Programmer</h3>
 
 ---
 
