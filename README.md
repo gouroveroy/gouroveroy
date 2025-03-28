@@ -58,10 +58,6 @@
   <tr>
     <td>
       <i>Tournament-based data with player profiles.</i><br>
-      <b>Tech Stack:</b>  
-      ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-      ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-      ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
     </td>
   </tr>
 </table>
