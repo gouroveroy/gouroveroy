@@ -29,6 +29,7 @@
 #### **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/OracleDB-F80000?style=flat&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758f?style=flat&logo=mysql&logoColor=white)
 
 #### **Tools & Others**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
